@@ -1,0 +1,428 @@
+[
+  {
+    "code": 200,
+    "title": "OK",
+    "description": "",
+    "image": "https://http.cat/images/200.jpg"
+  },
+  {
+    "code": 201,
+    "title": "Created",
+    "description": "",
+    "image": "https://http.cat/images/201.jpg"
+  },
+  {
+    "code": 202,
+    "title": "Accepted",
+    "description": "",
+    "image": "https://http.cat/images/202.jpg"
+  },
+  {
+    "code": 203,
+    "title": "Non-Authoritative Information",
+    "description": "",
+    "image": "https://http.cat/images/203.jpg"
+  },
+  {
+    "code": 204,
+    "title": "No Content",
+    "description": "",
+    "image": "https://http.cat/images/204.jpg"
+  },
+  {
+    "code": 205,
+    "title": "Reset Content",
+    "description": "",
+    "image": "https://http.cat/images/205.jpg"
+  },
+  {
+    "code": 206,
+    "title": "Partial Content",
+    "description": "",
+    "image": "https://http.cat/images/206.jpg"
+  },
+  {
+    "code": 207,
+    "title": "Multi-Status",
+    "description": "",
+    "image": "https://http.cat/images/207.jpg"
+  },
+  {
+    "code": 208,
+    "title": "Already Reported (WebDAV)",
+    "description": "",
+    "image": "https://http.cat/images/208.jpg"
+  },
+  {
+    "code": 226,
+    "title": "IM Used",
+    "description": "",
+    "image": "https://http.cat/images/226.jpg"
+  },
+  {
+    "code": 300,
+    "title": "Multiple Choices",
+    "description": "",
+    "image": "https://http.cat/images/300.jpg"
+  },
+  {
+    "code": 301,
+    "title": "Moved Permanently",
+    "description": "",
+    "image": "https://http.cat/images/301.jpg"
+  },
+  {
+    "code": 302,
+    "title": "Found",
+    "description": "",
+    "image": "https://http.cat/images/302.jpg"
+  },
+  {
+    "code": 303,
+    "title": "See Other",
+    "description": "",
+    "image": "https://http.cat/images/303.jpg"
+  },
+  {
+    "code": 304,
+    "title": "Not Modified",
+    "description": "",
+    "image": "https://http.cat/images/304.jpg"
+  },
+  {
+    "code": 305,
+    "title": "Use Proxy",
+    "description": "",
+    "image": "https://http.cat/images/305.jpg"
+  },
+  {
+    "code": 307,
+    "title": "Temporary Redirect",
+    "description": "",
+    "image": "https://http.cat/images/307.jpg"
+  },
+  {
+    "code": 308,
+    "title": "Permanent Redirect",
+    "description": "",
+    "image": "https://http.cat/images/308.jpg"
+  },
+  {
+    "code": 400,
+    "title": "Bad Request",
+    "description": "",
+    "image": "https://http.cat/images/400.jpg"
+  },
+  {
+    "code": 401,
+    "title": "Unauthorized",
+    "description": "",
+    "image": "https://http.cat/images/401.jpg"
+  },
+  {
+    "code": 402,
+    "title": "Payment Required",
+    "description": "",
+    "image": "https://http.cat/images/402.jpg"
+  },
+  {
+    "code": 403,
+    "title": "Forbidden",
+    "description": "",
+    "image": "https://http.cat/images/403.jpg"
+  },
+  {
+    "code": 404,
+    "title": "Not Found",
+    "description": "",
+    "image": "https://http.cat/images/404.jpg"
+  },
+  {
+    "code": 405,
+    "title": "Method Not Allowed",
+    "description": "",
+    "image": "https://http.cat/images/405.jpg"
+  },
+  {
+    "code": 406,
+    "title": "Not Acceptable",
+    "description": "",
+    "image": "https://http.cat/images/406.jpg"
+  },
+  {
+    "code": 407,
+    "title": "Proxy Authentication Required",
+    "description": "",
+    "image": "https://http.cat/images/407.jpg"
+  },
+  {
+    "code": 408,
+    "title": "Request Timeout",
+    "description": "",
+    "image": "https://http.cat/images/408.jpg"
+  },
+  {
+    "code": 409,
+    "title": "Conflict",
+    "description": "",
+    "image": "https://http.cat/images/409.jpg"
+  },
+  {
+    "code": 410,
+    "title": "Gone",
+    "description": "",
+    "image": "https://http.cat/images/410.jpg"
+  },
+  {
+    "code": 411,
+    "title": "Length Required",
+    "description": "",
+    "image": "https://http.cat/images/411.jpg"
+  },
+  {
+    "code": 412,
+    "title": "Precondition Failed",
+    "description": "",
+    "image": "https://http.cat/images/412.jpg"
+  },
+  {
+    "code": 413,
+    "title": "Request Entity Too Large",
+    "description": "",
+    "image": "https://http.cat/images/413.jpg"
+  },
+  {
+    "code": 414,
+    "title": "Request-URI Too Long",
+    "description": "",
+    "image": "https://http.cat/images/414.jpg"
+  },
+  {
+    "code": 415,
+    "title": "Unsupported Media Type",
+    "description": "",
+    "image": "https://http.cat/images/415.jpg"
+  },
+  {
+    "code": 416,
+    "title": "Requested Range Not Satisfiable",
+    "description": "",
+    "image": "https://http.cat/images/416.jpg"
+  },
+  {
+    "code": 417,
+    "title": "Expectation Failed",
+    "description": "",
+    "image": "https://http.cat/images/417.jpg"
+  },
+  {
+    "code": 418,
+    "title": "I'm a teapot",
+    "description": "",
+    "image": "https://http.cat/images/418.jpg"
+  },
+  {
+    "code": 420,
+    "title": "Enhance Your Calm",
+    "description": "",
+    "image": "https://http.cat/images/420.jpg"
+  },
+  {
+    "code": 421,
+    "title": "Misdirected Request",
+    "description": "",
+    "image": "https://http.cat/images/421.jpg"
+  },
+  {
+    "code": 422,
+    "title": "Unprocessable Entity",
+    "description": "",
+    "image": "https://http.cat/images/422.jpg"
+  },
+  {
+    "code": 423,
+    "title": "Locked",
+    "description": "",
+    "image": "https://http.cat/images/423.jpg"
+  },
+  {
+    "code": 424,
+    "title": "Failed Dependency",
+    "description": "",
+    "image": "https://http.cat/images/424.jpg"
+  },
+  {
+    "code": 425,
+    "title": "Too Early",
+    "description": "",
+    "image": "https://http.cat/images/425.jpg"
+  },
+  {
+    "code": 426,
+    "title": "Upgrade Required",
+    "description": "",
+    "image": "https://http.cat/images/426.jpg"
+  },
+  {
+    "code": 428,
+    "title": "Precondition Required",
+    "description": "",
+    "image": "https://http.cat/images/428.jpg"
+  },
+  {
+    "code": 429,
+    "title": "Too Many Requests",
+    "description": "",
+    "image": "https://http.cat/images/429.jpg"
+  },
+  {
+    "code": 431,
+    "title": "Request Header Fields Too Large",
+    "description": "",
+    "image": "https://http.cat/images/431.jpg"
+  },
+  {
+    "code": 444,
+    "title": "No Response",
+    "description": "",
+    "image": "https://http.cat/images/444.jpg"
+  },
+  {
+    "code": 449,
+    "title": "Retry With",
+    "description": "",
+    "image": "https://http.cat/images/449.jpg"
+  },
+  {
+    "code": 450,
+    "title": "Blocked by Windows Parental Controls",
+    "description": "",
+    "image": "https://http.cat/images/450.jpg"
+  },
+  {
+    "code": 451,
+    "title": "Unavailable For Legal Reasons",
+    "description": "",
+    "image": "https://http.cat/images/451.jpg"
+  },
+  {
+    "code": 497,
+    "title": "HTTP Request Sent to HTTPS Port",
+    "description": "",
+    "image": "https://http.cat/images/497.jpg"
+  },
+  {
+    "code": 498,
+    "title": "Token expired/invalid",
+    "description": "",
+    "image": "https://http.cat/images/498.jpg"
+  },
+  {
+    "code": 499,
+    "title": "Client Closed Request",
+    "description": "",
+    "image": "https://http.cat/images/499.jpg"
+  },
+  {
+    "code": 500,
+    "title": "Internal Server Error",
+    "description": "",
+    "image": "https://http.cat/images/500.jpg"
+  },
+  {
+    "code": 501,
+    "title": "Not Implemented",
+    "description": "",
+    "image": "https://http.cat/images/501.jpg"
+  },
+  {
+    "code": 502,
+    "title": "Bad Gateway",
+    "description": "",
+    "image": "https://http.cat/images/502.jpg"
+  },
+  {
+    "code": 503,
+    "title": "Service Unavailable",
+    "description": "",
+    "image": "https://http.cat/images/503.jpg"
+  },
+  {
+    "code": 504,
+    "title": "Gateway Timeout",
+    "description": "",
+    "image": "https://http.cat/images/504.jpg"
+  },
+  {
+    "code": 505,
+    "title": "HTTP Version Not Supported",
+    "description": "",
+    "image": "https://http.cat/images/505.jpg"
+  },
+  {
+    "code": 506,
+    "title": "Variant Also Negotiates",
+    "description": "",
+    "image": "https://http.cat/images/506.jpg"
+  },
+  {
+    "code": 507,
+    "title": "Insufficient Storage",
+    "description": "",
+    "image": "https://http.cat/images/507.jpg"
+  },
+  {
+    "code": 508,
+    "title": "Loop Detected",
+    "description": "",
+    "image": "https://http.cat/images/508.jpg"
+  },
+  {
+    "code": 509,
+    "title": "Bandwidth Limit Exceeded",
+    "description": "",
+    "image": "https://http.cat/images/509.jpg"
+  },
+  {
+    "code": 510,
+    "title": "Not Extended",
+    "description": "",
+    "image": "https://http.cat/images/510.jpg"
+  },
+  {
+    "code": 511,
+    "title": "Network Authentication Required",
+    "description": "",
+    "image": "https://http.cat/images/511.jpg"
+  },
+  {
+    "code": 521,
+    "title": "Web Server is Down",
+    "description": "",
+    "image": "https://http.cat/images/521.jpg"
+  },
+  {
+    "code": 523,
+    "title": "Origin is Unreachable",
+    "description": "",
+    "image": "https://http.cat/images/523.jpg"
+  },
+  {
+    "code": 525,
+    "title": "SSL Handshake Failed",
+    "description": "",
+    "image": "https://http.cat/images/525.jpg"
+  },
+  {
+    "code": 598,
+    "title": "Network read timeout error",
+    "description": "",
+    "image": "https://http.cat/images/598.jpg"
+  },
+  {
+    "code": 599,
+    "title": "Network connect timeout error",
+    "description": "",
+    "image": "https://http.cat/images/599.jpg"
+  }
+]
